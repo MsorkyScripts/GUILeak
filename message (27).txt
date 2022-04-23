@@ -1,5 +1,5 @@
 if game.CoreGui:FindFirstChild("AltControlGui") then game.StarterGui:SetCore("SendNotification",{Title ="Alt Control Gui [1.0.3]",Text ="Script already executed!",Duration =25}) else
-game.StarterGui:SetCore("SendNotification",{Title ="Alt Control Gui [1.0.3]",Text ="Added host circle 😱😱, dm czopek#7877 if any bugs",Duration =25})
+game.StarterGui:SetCore("SendNotification",{Title ="ShitKU REmake so u dont buy that shit",Duration =25})
 local AltControlGui = Instance.new("ScreenGui")
 local BackFrame = Instance.new("Frame")
 local Main = Instance.new("Frame")
